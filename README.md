@@ -17,6 +17,6 @@ Pour exécuter le projet :
 
   1. Telecharger le DataFrame dans: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data
   2. Installer les dépendances : pip install flask pandas matplotlib seaborn
-  3. Se placer dans le dossier parent de vis_project/
-  4. Lancer : python vis_project/app.py
+  3. Se placer dans le dossier parent du projet
+  4. Lancer : python app.py
   5. Ouvrir un navigateur à l'adresse : http://127.0.0.1:5000

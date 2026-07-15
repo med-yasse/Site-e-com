@@ -3,12 +3,16 @@ Le projet consiste en un tableau de bord web qui charge un fichier de transactio
 Structure des fichiers :
 
   vis_project/
+  
   ├── app.py                  ← application Flask principale
+  
   ├── Sales_Transaction.csv   ← données brutes
+  
   ├── static/                 ← graphiques générés automatiquement
+  
   └── templates/
-      └── index.html          ← interface du dashboard
-
+      └── index.html          ← interface du dashboard  
+      
 Pour exécuter le projet :
 
   1. Telecharger le DataFrame dans: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data
